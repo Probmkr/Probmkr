@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Probmkr&theme=github_dark) ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Probmkr&layout=compact&theme=github_dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=probmkr&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Probmkr/Probmkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
